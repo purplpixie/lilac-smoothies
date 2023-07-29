@@ -1,0 +1,100 @@
+li{
+    display:inline-block;
+    padding:10px;
+    margin-top:25px;
+    color: rgb(200, 164, 215);
+    
+}
+.header{
+    background-color: rgb(100, 0, 128);
+    margin-bottom:20px;
+}
+.menu:hover{
+    color:rgb(200, 164, 215); 
+    background: rgb(237, 194, 255);
+}
+.menu{
+    all: unset;
+  display: block;
+  margin-left: auto;
+  border: 2px solid #FFF;
+  padding: 10px 15px;
+  border-radius: 25px;
+  font-weight: 600;
+  transition: all 0.5;
+  cursor: pointer;
+  letter-spacing: 1.2px;
+}
+ 
+ 
+img{
+    float:left;
+}
+.section1{
+    width: 100%;
+    height:700px;
+    background-color: rgb(208, 168, 247);
+    position: relative;
+  
+}
+.section1>img{
+    width:50%;
+    height:700px;
+}
+.text{
+    position: absolute;
+    bottom: 400px;
+    right: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+.text>button{
+    right:100px;
+
+}
+img{
+    float:left;
+}
+.section2{
+    width: 100%;
+    height:700px;
+    background-color: rgb(147,203,254);
+    position: relative;
+}
+.section2>img{
+    width:50%;
+    height:700px;
+}
+.text2{
+    position: absolute;
+    bottom: 400px;
+    right: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+button{ color:rgb(206,163,255)
+
+}
+.section3{
+    width: 100%;
+    height:700px;
+    background-color: rgb(137,134,241);
+    position: relative;
+}
+.section3>img{
+    width:50%;
+    height:700px;
+}
+.text3{
+    position: absolute;
+    bottom: 400px;
+    left: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+footer{
+    background-color: rgb(100, 0, 128);
+    margin-bottom:20px;
+
+}
+
